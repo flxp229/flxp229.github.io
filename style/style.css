@@ -5,3 +5,14 @@ body {
 main {
   margin: 20px;
 }
+
+#hobbies {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.hobbiespictures {
+  border: solid gray 2px;
+  border-radius: 20px;
+}
