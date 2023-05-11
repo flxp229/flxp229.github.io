@@ -9,3 +9,8 @@
   float: left;
   padding: 10px;
 }
+
+a {
+  color: black;
+  text-decoration: none;
+}
