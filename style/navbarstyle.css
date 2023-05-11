@@ -1,1 +1,10 @@
+#navbar {
+  overflow: hidden;
+  background-color: #F1f1ee;
+}
 
+.navbarbuttons {
+  background-color: inherit;
+  text-align: center;
+  float: left;
+}
