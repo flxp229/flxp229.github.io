@@ -18,3 +18,15 @@ main {
   width: 100px;
   height: 40px;
 }
+
+#hobbiestennis {
+  backgound-image: url("pictures/8D0BFCB0-2B36-4C93-B67D-A4358262F461.jpeg")
+}
+
+#hobbiespiano {
+  background-image: url("pictures/104BD726-A215-4B31-8693-9F8887390669.jpeg")
+}
+
+#hobbiescoding {
+  background-image: url("pictures/7E472E51-7D47-42FB-954F-7A97488D5D44.jpeg")
+}
