@@ -17,6 +17,8 @@ main {
   border-radius: 50vw;
   width: 25vw;
   height: 10vw;
+  display: flex;
+  align-items: flex-end;
 }
 
 #hobbiestennis {
