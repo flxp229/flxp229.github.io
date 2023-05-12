@@ -38,3 +38,11 @@ main {
 #hobbiescoding {
   background-image: url(/pictures/7E472E51-7D47-42FB-954F-7A97488D5D44.jpeg);
 }
+
+.contactpictures {
+  color: black;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
