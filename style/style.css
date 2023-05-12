@@ -3,7 +3,7 @@ body {
 }
 
 main {
-  margin: 20px;
+  margin: 4vw;
 }
 
 #hobbies {
@@ -17,6 +17,7 @@ main {
   border-radius: 50vw;
   width: 25vw;
   height: 10vw;
+  padding: 1vw;
   display: flex;
   align-items: flex-end;
   background-position: center;
