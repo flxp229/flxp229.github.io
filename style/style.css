@@ -16,8 +16,8 @@ main {
   font-weight: bold;
   border: solid gray 2px;
   border-radius: 60px;
-  width: 25vw;
-  height: 10vw;
+  width: 20vw;
+  height: 12.5vw;
   padding: 2vw;
   display: flex;
   align-items: flex-end;
