@@ -39,14 +39,8 @@ main {
   background-image: url(/pictures/7E472E51-7D47-42FB-954F-7A97488D5D44.jpeg);
 }
 
-.contactpictures {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
 .contactpictures a {
-  margin: 20px;
+  margin: 10px;
   color: black;
   text-decoration: none;
   display: flex;
@@ -55,5 +49,18 @@ main {
 }
 
 .contactpictures p {
+  margin: 10px;
+  color: black;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.contactpictures a font {
+  margin: 20px;
+}
+
+.contactpictures p font {
   margin: 20px;
 }
