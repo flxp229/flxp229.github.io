@@ -1,7 +1,6 @@
 #navbar {
   overflow: hidden;
-  display: flex;
-  flex-direction: row;
+  float: left;
   background-color: #F1f1ee;
   margin: 0px;
 }
